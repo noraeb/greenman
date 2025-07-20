@@ -17,7 +17,7 @@ interface ArtistListItemProps {
     genre: string[];
     desc: string;
     ratings: Rating[];
-    day: 'Friday' | 'Saturday' | 'Sunday';
+    day: 'Thursday' | 'Friday' | 'Saturday' | 'Sunday';
   };
   fullWidth?: boolean;
   onRatingUpdate: (

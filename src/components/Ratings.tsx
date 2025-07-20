@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useCallback, useRef } from 'react';
 import {
   Box,
   Typography,
@@ -16,6 +16,34 @@ import {
   updateDoc,
 } from 'firebase/firestore';
 import { db } from '../firebaseConfig';
+
+// Custom debounce hook
+const useDebounce = (callback: Function, delay: number) => {
+  const timeoutRef = useRef<NodeJS.Timeout | null>(null);
+
+  const debouncedCallback = useCallback(
+    (...args: any[]) => {
+      if (timeoutRef.current) {
+        clearTimeout(timeoutRef.current);
+      }
+      timeoutRef.current = setTimeout(() => {
+        callback(...args);
+      }, delay);
+    },
+    [callback, delay],
+  );
+
+  // Cleanup timeout on unmount
+  useEffect(() => {
+    return () => {
+      if (timeoutRef.current) {
+        clearTimeout(timeoutRef.current);
+      }
+    };
+  }, []);
+
+  return debouncedCallback;
+};
 
 interface RatingsProps {
   label: string;
@@ -52,6 +80,30 @@ const Ratings: React.FC<RatingsProps> = ({
   useEffect(() => {
     setEditableNote(note);
   }, [note]);
+
+  const saveNoteToFirestore = async (newNote: string) => {
+    // Search for the document by artist name
+    const q = query(collection(db, 'lineup'), where('artist', '==', artist));
+    const querySnapshot = await getDocs(q);
+    if (!querySnapshot.empty) {
+      const artistDoc = querySnapshot.docs[0].ref;
+      const artistData = querySnapshot.docs[0].data();
+      const updatedRatings = artistData.ratings.map((rating: any) =>
+        rating.name === user ? { ...rating, notes: newNote } : rating,
+      );
+      await updateDoc(artistDoc, {
+        ratings: updatedRatings,
+      });
+    }
+  };
+
+  // Debounced save function - saves .5 second after user stops typing
+  const debouncedSaveNote = useDebounce(saveNoteToFirestore, 1000);
+
+  const handleNoteChange = (newNote: string) => {
+    setEditableNote(newNote);
+    debouncedSaveNote(newNote);
+  };
 
   const handleLikeChange = async (
     _event: React.ChangeEvent<{}>,
@@ -97,24 +149,6 @@ const Ratings: React.FC<RatingsProps> = ({
     }
   };
 
-  const handleNoteChange = async (newNote: string) => {
-    setEditableNote(newNote);
-
-    // Search for the document by artist name
-    const q = query(collection(db, 'lineup'), where('artist', '==', artist));
-    const querySnapshot = await getDocs(q);
-    if (!querySnapshot.empty) {
-      const artistDoc = querySnapshot.docs[0].ref;
-      const artistData = querySnapshot.docs[0].data();
-      const updatedRatings = artistData.ratings.map((rating: any) =>
-        rating.name === user ? { ...rating, notes: newNote } : rating,
-      );
-      await updateDoc(artistDoc, {
-        ratings: updatedRatings,
-      });
-    }
-  };
-
   return (
     <div style={{ marginRight: isSmallScreen ? 6 : 24 }}>
       <Typography variant="body2" color="text.secondary">
@@ -145,15 +179,7 @@ const Ratings: React.FC<RatingsProps> = ({
         </Typography>
         <TextField
           value={editableNote}
-          onChange={e => setEditableNote(e.target.value)}
-          onKeyDown={e => {
-            if (e.key === 'Enter') {
-              e.preventDefault();
-              const newValue = (e.target as HTMLInputElement).value;
-              handleNoteChange(newValue);
-              (e.target as HTMLInputElement).blur();
-            }
-          }}
+          onChange={e => handleNoteChange(e.target.value)}
           variant="standard"
           multiline
         />

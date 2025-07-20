@@ -15,7 +15,7 @@ function App() {
       <Box display="flex" justifyContent="space-between" alignItems="center">
         <Box flexGrow={1} display="flex" justifyContent="center">
           <Typography variant="h4" component="h1" noWrap>
-            Best Kept Secret 2025
+            Green Man 2025
           </Typography>
         </Box>
       </Box>

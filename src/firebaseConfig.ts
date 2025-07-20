@@ -2,13 +2,14 @@ import { initializeApp } from 'firebase/app';
 import { initializeFirestore, persistentLocalCache } from 'firebase/firestore';
 import { getAuth } from 'firebase/auth';
 
+// Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: 'AIzaSyArxOzKTFso83A4x2BofADiMoi5OZp7Gk4',
-  authDomain: 'bks2025-1c092.firebaseapp.com',
-  projectId: 'bks2025-1c092',
-  storageBucket: 'bks2025-1c092.firebasestorage.app',
-  messagingSenderId: '147921412931',
-  appId: '1:147921412931:web:c990adcabf3770786845f6',
+  apiKey: 'AIzaSyCtGZWcbv7Gq7HTyxgj2CZ8n4tviRNRDbg',
+  authDomain: 'greenman-c73b1.firebaseapp.com',
+  projectId: 'greenman-c73b1',
+  storageBucket: 'greenman-c73b1.firebasestorage.app',
+  messagingSenderId: '393050667662',
+  appId: '1:393050667662:web:f29add574384c604cb27df',
 };
 
 const app = initializeApp(firebaseConfig);

@@ -142,6 +142,9 @@ const ListFilters: React.FC<ListFiltersProps> = ({
           aria-label="day selection"
           size="small"
         >
+          <StyledToggleButton value="Thursday" aria-label="Thursday">
+            Thursday
+          </StyledToggleButton>
           <StyledToggleButton value="Friday" aria-label="friday">
             Friday
           </StyledToggleButton>

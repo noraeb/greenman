@@ -20,7 +20,7 @@ export interface ArtistData {
   genre: string[];
   desc: string;
   ratings: Rating[];
-  day: 'Friday' | 'Saturday' | 'Sunday';
+  day: 'Thursday' | 'Friday' | 'Saturday' | 'Sunday';
 }
 
 const ArtistList: React.FC = () => {
