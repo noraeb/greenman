@@ -11,8 +11,8 @@ export default defineConfig({
         enabled: true,
       },
       manifest: {
-        name: 'Best Kept Secret 2025',
-        short_name: 'BKS 2025',
+        name: 'Green Man Festival 2025',
+        short_name: 'Green Man',
         theme_color: '#000000',
         icons: [
           {

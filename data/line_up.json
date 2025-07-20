@@ -2,10 +2,10 @@
   "lineup": [
     {
       "id": 1,
-      "artist": "Amadou & Mariam",
-      "genre": ["World Music"],
-      "desc": "Mali’s most famous musical duo.",
-      "day": "Saturday",
+      "artist": "Underworld",
+      "genre": ["Electronic"],
+      "desc": "British electronic duo known for their atmospheric dance sound and iconic track “Born Slippy .NUXX.”",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -23,10 +23,10 @@
     },
     {
       "id": 2,
-      "artist": "Amenra",
-      "genre": ["Post-metal"],
-      "desc": "Holistic heavy metal with high intensity.",
-      "day": "Saturday",
+      "artist": "Wet Leg",
+      "genre": ["Indie Rock"],
+      "desc": "Breakout British duo with playful, tongue-in-cheek lyrics and hits like “Chaise Longue.”",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -44,10 +44,10 @@
     },
     {
       "id": 3,
-      "artist": "Barry Can't Swim",
-      "genre": ["Electronic"],
-      "desc": "Warm, jazzy house with a unique charm.",
-      "day": "Friday",
+      "artist": "TV On The Radio",
+      "genre": ["Alternative Rock"],
+      "desc": "Brooklyn band known for genre-blending sound and acclaimed albums like 'Dear Science.'",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -65,10 +65,10 @@
     },
     {
       "id": 4,
-      "artist": "Big Special",
-      "genre": ["Post-industrial"],
-      "desc": "Fiery post-industrial music that invites dancing.",
-      "day": "Sunday",
+      "artist": "Kneecap",
+      "genre": ["Hip-Hop"],
+      "desc": "Irish-language rap trio fusing political commentary with punk and hip-hop energy.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -86,10 +86,10 @@
     },
     {
       "id": 5,
-      "artist": "Blanco White",
-      "genre": ["Latin-folk"],
-      "desc": "Soothing yet urgent Latin-folk sounds.",
-      "day": "Sunday",
+      "artist": "Beth Gibbons",
+      "genre": ["Trip-Hop"],
+      "desc": "Portishead’s haunting vocalist, performing solo with emotional depth and cinematic style.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -107,10 +107,10 @@
     },
     {
       "id": 6,
-      "artist": "Brass Rave Unit",
-      "genre": ["Rave"],
-      "desc": "Brass-fueled rave trio.",
-      "day": "Sunday",
+      "artist": "Wunderhorse",
+      "genre": ["Alternative Rock"],
+      "desc": "British rock outfit led by Jacob Slater, blending introspective lyrics with grungy guitar textures.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -128,10 +128,10 @@
     },
     {
       "id": 7,
-      "artist": "Brihang",
-      "genre": ["Hip-hop"],
-      "desc": "Charismatic rapper with a laid-back flow.",
-      "day": "Friday",
+      "artist": "Cymande",
+      "genre": ["Funk"],
+      "desc": "Legendary British funk group known for Afro-Caribbean grooves and 1970s underground anthems.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -149,10 +149,10 @@
     },
     {
       "id": 8,
-      "artist": "Caribou",
-      "genre": ["Indietronica"],
-      "desc": "Vibrant indietronica with a full band setup.",
-      "day": "Saturday",
+      "artist": "CMAT",
+      "genre": ["Pop"],
+      "desc": "Irish pop sensation delivering sharp lyrics with country-pop flair and theatrical stage presence.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -170,10 +170,10 @@
     },
     {
       "id": 9,
-      "artist": "Cassandra Jenkins",
-      "genre": ["Folk"],
-      "desc": "Free-flowing and easygoing folk meditations.",
-      "day": "Friday",
+      "artist": "Yard Act",
+      "genre": ["Post-Punk"],
+      "desc": "Leeds-based band with spoken-word vocals and sharp commentary over driving punk rhythms.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -191,10 +191,10 @@
     },
     {
       "id": 10,
-      "artist": "Deftones",
-      "genre": ["Alternative Metal"],
-      "desc": "Masters of heavy, melodic bliss.",
-      "day": "Sunday",
+      "artist": "English Teacher",
+      "genre": ["Indie Rock"],
+      "desc": "Rising UK group blending poetic lyrics with angular, expressive instrumentation.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -212,10 +212,10 @@
     },
     {
       "id": 11,
-      "artist": "Divorce",
-      "genre": ["Alternative Rock"],
-      "desc": "Charming and twangy alternative rock.",
-      "day": "Friday",
+      "artist": "Kokoroko",
+      "genre": ["Afrobeat"],
+      "desc": "London-based collective known for lush brass-led Afrobeat and soulful jazz fusion.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -233,9 +233,10 @@
     },
     {
       "id": 12,
-      "artist": "Djo",
-      "genre": ["Synthpop"],
-      "desc": "Fresh synthpop soundscapes.",
+      "artist": "Greentea Peng",
+      "genre": ["Neo-Soul"],
+      "desc": "Psychedelic soul artist mixing dub, R&B, and introspective vocals with spiritual overtones.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -253,10 +254,10 @@
     },
     {
       "id": 13,
-      "artist": "Droom Dit",
-      "genre": ["Alternative Pop"],
-      "desc": "Passionate Dutch-language alternative pop.",
-      "day": "Friday",
+      "artist": "Perfume Genius",
+      "genre": ["Art Pop"],
+      "desc": "Mike Hadreas' project exploring queerness, vulnerability, and grandeur in lush sonic worlds.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -274,9 +275,10 @@
     },
     {
       "id": 14,
-      "artist": "Dummy",
-      "genre": ["Psych Rock"],
-      "desc": "Colorful psychedelic rock wonders.",
+      "artist": "Los Campesinos",
+      "genre": ["Indie Pop"],
+      "desc": "Energetic Welsh indie group known for emotional anthems and wry, literate lyrics.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -294,10 +296,10 @@
     },
     {
       "id": 15,
-      "artist": "Eefje de Visser",
-      "genre": ["Pop"],
-      "desc": "Enchanting and visionary pop music.",
-      "day": "Friday",
+      "artist": "John Grant",
+      "genre": ["Singer-Songwriter"],
+      "desc": "Former Czars frontman delivering witty, melancholic songs blending folk and synthpop.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -315,9 +317,10 @@
     },
     {
       "id": 16,
-      "artist": "Elephant",
-      "genre": ["Alternative Pop"],
-      "desc": "Sun-drenched alt-pop gems.",
+      "artist": "MJ Lenderman & The Wind",
+      "genre": ["Alt-Country"],
+      "desc": "North Carolina songwriter weaving distorted guitars with country storytelling flair.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -335,9 +338,10 @@
     },
     {
       "id": 17,
-      "artist": "Fcukers",
-      "genre": ["House"],
-      "desc": "Gritty house anthems that break all the rules.",
+      "artist": "Cass McCombs",
+      "genre": ["Folk Rock"],
+      "desc": "American singer-songwriter known for introspective lyrics and genre-spanning records.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -355,9 +359,10 @@
     },
     {
       "id": 18,
-      "artist": "Gouge Away",
-      "genre": ["Post-hardcore", "Shoegaze"],
-      "desc": "Fierce blend of post-hardcore and shoegaze.",
+      "artist": "Nilüfer Yanya",
+      "genre": ["Indie Rock"],
+      "desc": "London musician blending soulful vocals with jagged guitars and experimental textures.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -375,10 +380,10 @@
     },
     {
       "id": 19,
-      "artist": "jasmine.4.t",
-      "genre": ["Indie Rock"],
-      "desc": "Expressive, raw indie rock.",
-      "day": "Saturday",
+      "artist": "Fat Dog",
+      "genre": ["Post-Punk"],
+      "desc": "London's chaotic live favorites combining punk, rave, and theatrical vocals.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -396,10 +401,10 @@
     },
     {
       "id": 20,
-      "artist": "Kabeaushé",
-      "genre": ["Pop"],
-      "desc": "Eccentric pop projectiles.",
-      "day": "Friday",
+      "artist": "Warmduscher",
+      "genre": ["Garage Rock"],
+      "desc": "Frenetic London band mixing sleaze, funk, and punk attitude into infectious grooves.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -415,12 +420,13 @@
         }
       ]
     },
+
     {
       "id": 21,
-      "artist": "Khana Bierbood",
-      "genre": ["Thai Funk"],
-      "desc": "Thai funk with a modern twist.",
-      "day": "Saturday",
+      "artist": "Asha Puthli",
+      "genre": ["Jazz", "Disco"],
+      "desc": "Indian‑American singer and fusion pioneer blending jazz, disco, funk and electronica since the ’70s.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -438,10 +444,10 @@
     },
     {
       "id": 22,
-      "artist": "King Hannah",
-      "genre": ["Art Rock"],
-      "desc": "Hypnotic art rock with a twist.",
-      "day": "Saturday",
+      "artist": "Panda Bear",
+      "genre": ["Psychedelic Pop"],
+      "desc": "Noah Lennox of Animal Collective known for hypnotic, sample‑based solo work like Person Pitch and 2025’s Sinister Grift.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -459,10 +465,10 @@
     },
     {
       "id": 23,
-      "artist": "Kin'Gongolo Kiniata",
-      "genre": ["Electronic"],
-      "desc": "Scrap-metal sonic odyssey from Congo.",
-      "day": "Friday",
+      "artist": "Cassandra Jenkins",
+      "genre": ["Indie Folk"],
+      "desc": "NY‑based songwriter blending introspective lyrics with lush, cinematic folk arrangements.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -480,10 +486,10 @@
     },
     {
       "id": 24,
-      "artist": "Kneecap",
-      "genre": ["Hip-hop"],
-      "desc": "Outspoken Irish rap rebels.",
-      "day": "Saturday",
+      "artist": "Kelly Lee Owens",
+      "genre": ["Electronic"],
+      "desc": "Welsh producer and singer crafting atmospheric techno and dream‑pop hybrids.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -501,10 +507,10 @@
     },
     {
       "id": 25,
-      "artist": "Lander & Adriaan",
-      "genre": ["Electronic"],
-      "desc": "Infectious, jazzy electronic jams.",
-      "day": "Saturday",
+      "artist": "Factory Floor",
+      "genre": ["Post-Punk"],
+      "desc": "London trio merging coldwave, industrial and electronic rhythms into a hypnotic dance‑floor pulse.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -522,10 +528,10 @@
     },
     {
       "id": 26,
-      "artist": "L'Impératrice",
-      "genre": ["French Pop"],
-      "desc": "French pop with a retro-futuristic touch.",
-      "day": "Friday",
+      "artist": "Gwenno",
+      "genre": ["Art Pop"],
+      "desc": "Welsh singer-songwriter exploring heritage and identity through lush art‑pop in Cornish and Welsh.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -543,10 +549,10 @@
     },
     {
       "id": 27,
-      "artist": "Magdalena Bay",
-      "genre": ["Pop"],
-      "desc": "Warped pop transmissions from the Phantom Zone.",
-      "day": "Saturday",
+      "artist": "Richard Dawson",
+      "genre": ["Folk"],
+      "desc": "British folk innovator noted for theatrical, idiosyncratic storytelling and experimental song forms.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -564,10 +570,10 @@
     },
     {
       "id": 28,
-      "artist": "Michael Kiwanuka",
-      "genre": ["Soul"],
-      "desc": "Dynamic soul artist blending grit and grace.",
-      "day": "Saturday",
+      "artist": "John Glacier",
+      "genre": ["Indie Folk"],
+      "desc": "Tender‑voiced folk guitarist whose intimate, stripped‑back songs evoke emotional depth.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -585,10 +591,10 @@
     },
     {
       "id": 29,
-      "artist": "Nia Archives",
-      "genre": ["Breakbeat"],
-      "desc": "Influential breakbeat innovator.",
-      "day": "Friday",
+      "artist": "Mike",
+      "genre": ["Hip-Hop"],
+      "desc": "East Coast underground rapper known for introspective, lo‑fi beats and thoughtful lyricism.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -606,10 +612,10 @@
     },
     {
       "id": 30,
-      "artist": "Nilüfer Yanya",
-      "genre": ["Alternative Pop"],
-      "desc": "Impressionistic alt-pop heroine.",
-      "day": "Friday",
+      "artist": "Gurriers",
+      "genre": ["Folk Rock"],
+      "desc": "Welsh folk-rock band combining harmony-rich vocals with driving acoustic energy.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -627,10 +633,10 @@
     },
     {
       "id": 31,
-      "artist": "Paceshifters",
-      "genre": ["Rock"],
-      "desc": "Melodic and inventive rock powerhouse.",
-      "day": "Saturday",
+      "artist": "Big Special",
+      "genre": ["Indie Rock"],
+      "desc": "Brighton-based indie-rock group with shimmering guitars and melodic vocal hooks.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -648,10 +654,10 @@
     },
     {
       "id": 32,
-      "artist": "Personal Trainer",
-      "genre": ["Indie Rock"],
-      "desc": "Adventurous indie rock crusaders.",
-      "day": "Saturday",
+      "artist": "Just Mustard",
+      "genre": ["Noise Rock"],
+      "desc": "Irish quartet mixing shoegaze, post‑punk and noise into immersive, intense soundscapes.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -669,10 +675,10 @@
     },
     {
       "id": 33,
-      "artist": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
-      "genre": ["Heavy Metal"],
-      "desc": "Wild heavy metal innovators.",
-      "day": "Saturday",
+      "artist": "Annie & The Caldwells",
+      "genre": ["Indie Folk"],
+      "desc": "Welsh folk sisters crafting warm, harmony‑driven songs rooted in storytelling.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -690,10 +696,10 @@
     },
     {
       "id": 34,
-      "artist": "Sailor Honeymoon",
+      "artist": "Divorce",
       "genre": ["Punk"],
-      "desc": "Catchy Korean punk band.",
-      "day": "Friday",
+      "desc": "High‑energy UK punk‑rock band with raw guitars and socially urgent lyrics.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -711,10 +717,10 @@
     },
     {
       "id": 35,
-      "artist": "Seun Kuti & Egypt 80",
-      "genre": ["Afrobeat"],
-      "desc": "Legendary Afrobeat uplifting the soul.",
-      "day": "Saturday",
+      "artist": "Pissed Jeans",
+      "genre": ["Hardcore Punk"],
+      "desc": "Brutal, sludgy hardcore punk from the US, known for ferocious riffs and confrontational lyrics.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -732,10 +738,10 @@
     },
     {
       "id": 36,
-      "artist": "Split System",
-      "genre": ["Punk"],
-      "desc": "Furious, energetic Australian punk.",
-      "day": "Saturday",
+      "artist": "Alan Sparhawk",
+      "genre": ["Alternative Rock"],
+      "desc": "Co‑founder of Low, bringing his introspective guitar work and vocals to new solo context.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -753,10 +759,10 @@
     },
     {
       "id": 37,
-      "artist": "The Backseat Lovers",
-      "genre": ["Indie Rock"],
-      "desc": "Indie rock that’s both raw and glamorous.",
-      "day": "Saturday",
+      "artist": "Caroline",
+      "genre": ["Singer-Songwriter"],
+      "desc": "Singer-songwriter blending delicate folk melodies with heartfelt lyricism.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -774,10 +780,10 @@
     },
     {
       "id": 38,
-      "artist": "The Dare",
-      "genre": ["Electroclash"],
-      "desc": "Lustrous electroclash revivalist.",
-      "day": "Friday",
+      "artist": "Ishmael Ensemble",
+      "genre": ["Experimental"],
+      "desc": "Belgian improvising collective creating avant-garde, free‑form soundscapes.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -795,10 +801,10 @@
     },
     {
       "id": 39,
-      "artist": "The Pill",
-      "genre": ["Garage Punk"],
-      "desc": "Rowdy garage punk jokers.",
-      "day": "Saturday",
+      "artist": "Fulu Miziki",
+      "genre": ["World"],
+      "desc": "Berlin‑based African collective fusing Congolese rumba, funk and psychedelia.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -816,10 +822,10 @@
     },
     {
       "id": 40,
-      "artist": "The Thing",
-      "genre": ["Psych Garage"],
-      "desc": "Gritty psychedelic garage jams.",
-      "day": "Saturday",
+      "artist": "Good Sad Happy Bad",
+      "genre": ["Jazz"],
+      "desc": "UK jazz quartet melding post‑punk energy with instrumental improvisation.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -837,10 +843,10 @@
     },
     {
       "id": 41,
-      "artist": "This Is Lorelei",
+      "artist": "Adwaith",
       "genre": ["Indie Rock"],
-      "desc": "Witty, genre-blending bummer anthems.",
-      "day": "Saturday",
+      "desc": "Welsh-language indie rock trio noted for energetic guitar-driven anthems.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -858,10 +864,10 @@
     },
     {
       "id": 42,
-      "artist": "TV On The Radio",
-      "genre": ["Art Rock"],
-      "desc": "Influential art rock legends.",
-      "day": "Saturday",
+      "artist": "Been Stellar",
+      "genre": ["Psychedelic Pop"],
+      "desc": "Cardiff-based band blending dreamy vocals with shoegaze and experimental pop.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -879,10 +885,10 @@
     },
     {
       "id": 43,
-      "artist": "TVOD",
-      "genre": ["Punk"],
-      "desc": "Defiant, fiery punk newcomers.",
-      "day": "Saturday",
+      "artist": "Broadside Hacks Presents Bob Dylan",
+      "genre": ["Folk Tribute"],
+      "desc": "A tribute ensemble reinterpreting Bob Dylan’s catalog through various artists.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -900,10 +906,10 @@
     },
     {
       "id": 44,
-      "artist": "Waxahatchee",
-      "genre": ["Alt-Country", "Americana"],
-      "desc": "Timeless, heartfelt alt-country and Americana.",
-      "day": "Saturday",
+      "artist": "Nadia Reid",
+      "genre": ["Folk"],
+      "desc": "New Zealand singer-songwriter crafting intimate, emotive folk songs.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -921,10 +927,10 @@
     },
     {
       "id": 45,
-      "artist": "Wilco",
-      "genre": ["Alt-Country"],
-      "desc": "Ever-evolving alt-country giants.",
-      "day": "Saturday",
+      "artist": "Being Dead",
+      "genre": ["Post-Punk"],
+      "desc": "Experimental post-punk duo with jagged guitars and artful rhythmic structures.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -942,10 +948,10 @@
     },
     {
       "id": 46,
-      "artist": "Wine Lips",
-      "genre": ["Garage Punk"],
-      "desc": "Ultra-catchy, wild garage punk.",
-      "day": "Saturday",
+      "artist": "Pictish Trail",
+      "genre": ["Indie Folk"],
+      "desc": "Scottish singer-songwriter blending folk storytelling with electronic textures.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -963,10 +969,10 @@
     },
     {
       "id": 47,
-      "artist": "WITCH",
-      "genre": ["Zamrock"],
-      "desc": "Fuzzy, electrifying Zamrock.",
-      "day": "Saturday",
+      "artist": "Naima Bock",
+      "genre": ["Indie Pop"],
+      "desc": "London-based singer crafting quirky, lo-fi melodic indie-pop tunes.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -984,10 +990,10 @@
     },
     {
       "id": 48,
-      "artist": "Antal",
-      "genre": ["Electronic"],
-      "desc": "Rush Hour founder and club connoisseur.",
-      "day": "Friday",
+      "artist": "Derya Yildirim Grup Simsek",
+      "genre": ["Psychedelic Folk"],
+      "desc": "Turkish-German ensemble fusing Anatolian folk with psych-rock exploration.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -1005,10 +1011,10 @@
     },
     {
       "id": 49,
-      "artist": "Baby Berserk",
-      "genre": ["Punk"],
-      "desc": "Feral & fashionable wave punk.",
-      "day": "Saturday",
+      "artist": "Daisy Rickman",
+      "genre": ["Singer-Songwriter"],
+      "desc": "Brighton artist known for jangling guitar pop with thoughtful lyricism.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -1026,10 +1032,10 @@
     },
     {
       "id": 50,
-      "artist": "Christian Lee Hutson",
-      "genre": ["Folk"],
-      "desc": "The next great American folk storyteller.",
-      "day": "Saturday",
+      "artist": "The Joy",
+      "genre": ["Alternative Rock"],
+      "desc": "Post-punk-inspired rock trio delivering dark, driving guitar soundscapes.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -1047,10 +1053,10 @@
     },
     {
       "id": 51,
-      "artist": "Cliffords",
-      "genre": ["Indie Pop"],
-      "desc": "Poetic & poignant indie pop anthems.",
-      "day": "Saturday",
+      "artist": "Jacob Alon",
+      "genre": ["Singer-Songwriter"],
+      "desc": "Folk-leaning singer with intimate, heartfelt acoustic songs.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -1068,10 +1074,10 @@
     },
     {
       "id": 52,
-      "artist": "Daniela Pes",
-      "genre": ["Pop"],
-      "desc": "Visionary, genre-fluid pop.",
-      "day": "Friday",
+      "artist": "Tristwch Y Fenywod",
+      "genre": ["Experimental Folk"],
+      "desc": "Welsh-language ensemble exploring folk traditions through avant-garde lenses.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -1089,10 +1095,10 @@
     },
     {
       "id": 53,
-      "artist": "Danilo Plessow (MCDE)",
-      "genre": ["House"],
-      "desc": "Daring deep house reformer.",
-      "day": "Saturday",
+      "artist": "Faux Real",
+      "genre": ["Garage Rock"],
+      "desc": "High-energy London trio mixing raw garage riffs with psychedelic attitude.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -1110,10 +1116,10 @@
     },
     {
       "id": 54,
-      "artist": "Daufødt",
-      "genre": ["Noise"],
-      "desc": "New Noise from Norway.",
-      "day": "Saturday",
+      "artist": "W.H. Lung",
+      "genre": ["Post-Punk"],
+      "desc": "Leeds-based post-punk band known for angular rhythms and brooding vocals.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -1131,10 +1137,10 @@
     },
     {
       "id": 55,
-      "artist": "Frost Children",
-      "genre": ["Hyperpop"],
-      "desc": "Genre-clashing hyperpop sensation.",
-      "day": "Friday",
+      "artist": "HiTech",
+      "genre": ["Electronic"],
+      "desc": "DJ/producer circle known for techno, house and underground dance sets.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -1152,10 +1158,10 @@
     },
     {
       "id": 56,
-      "artist": "Glass Beams",
-      "genre": ["Jam"],
-      "desc": "Transcendental jams beyond time & space.",
-      "day": "Friday",
+      "artist": "Untitled 0250225135639",
+      "genre": ["Electronic"],
+      "desc": "Experimental electronic producer releasing music anonymously via instrumental tracks.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -1173,10 +1179,10 @@
     },
     {
       "id": 57,
-      "artist": "Horsegirl",
-      "genre": ["Indie Rock"],
-      "desc": "Frisky indie rock torchbearers.",
-      "day": "Friday",
+      "artist": "Mark William Lewis",
+      "genre": ["Singer-Songwriter"],
+      "desc": "Solo artist blending reflective lyrics with acoustic folk melodies.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -1194,10 +1200,10 @@
     },
     {
       "id": 58,
-      "artist": "Iris Jean",
-      "genre": ["Pop"],
-      "desc": "Ethereal & multi-layered pop sensation.",
-      "day": "Saturday",
+      "artist": "Dove",
+      "genre": ["Indie Pop"],
+      "desc": "Catchy indie-pop act delivering bubbly melodies and bright hooks.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -1215,10 +1221,10 @@
     },
     {
       "id": 59,
-      "artist": "Jacob Alon",
-      "genre": ["Folk"],
-      "desc": "Gorgeous & urgent modern folk.",
-      "day": "Saturday",
+      "artist": "High Contrast",
+      "genre": ["Drum & Bass"],
+      "desc": "Welsh DJ and producer celebrated for melodic drum & bass and soulful remixes.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -1236,10 +1242,10 @@
     },
     {
       "id": 60,
-      "artist": "Kae Tempest",
-      "genre": ["Rap"],
-      "desc": "Acclaimed UK rapper, poet & storyteller.",
-      "day": "Saturday",
+      "artist": "DJ Paulette",
+      "genre": ["House"],
+      "desc": "Veteran UK DJ known for uplifting house sets across international clubs.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -1257,10 +1263,10 @@
     },
     {
       "id": 61,
-      "artist": "L.A. Sagne",
-      "genre": ["Punk"],
-      "desc": "Noisy punk rock interlopers.",
-      "day": "Saturday",
+      "artist": "Jamz Supernova",
+      "genre": ["Radio DJ"],
+      "desc": "UK radio personality and DJ, championing new music across BBC and beyond.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -1278,10 +1284,10 @@
     },
     {
       "id": 62,
-      "artist": "Lael Neale",
-      "genre": ["Indie Pop"],
-      "desc": "Hypnotic indie pop minimalist.",
-      "day": "Saturday",
+      "artist": "Chalk",
+      "genre": ["Indie Rock"],
+      "desc": "Brighton trio delivering warm guitar melodies and introspective lyrics.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -1299,10 +1305,10 @@
     },
     {
       "id": 63,
-      "artist": "Long Fling",
-      "genre": ["Pop"],
-      "desc": "Charming shoestring pop.",
-      "day": "Friday",
+      "artist": "Joshua Idehen",
+      "genre": ["Hip-Hop"],
+      "desc": "UK rapper blending spoken-word style with reflective lyricism.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -1320,10 +1326,10 @@
     },
     {
       "id": 64,
-      "artist": "Lucy Dacus",
-      "genre": ["Indie Rock"],
-      "desc": "Warm, heartfelt indie rock anthems.",
-      "day": "Saturday",
+      "artist": "Molina",
+      "genre": ["Singer-Songwriter"],
+      "desc": "Emotionally-honed songwriter with intimate acoustic compositions.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -1341,10 +1347,10 @@
     },
     {
       "id": 65,
-      "artist": "Maria Iskariot",
-      "genre": ["Punk"],
-      "desc": "Energetic punk mavericks from the Burning Fik stable.",
-      "day": "Saturday",
+      "artist": "YHWH Nailgun",
+      "genre": ["Experimental"],
+      "desc": "Underground act exploring abstract, noise-driven sonic textures.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -1362,10 +1368,10 @@
     },
     {
       "id": 66,
-      "artist": "Merce Lemon",
-      "genre": ["Alt Folk"],
-      "desc": "Alt folk tinged with sad and silly.",
-      "day": "Saturday",
+      "artist": "DK",
+      "genre": ["Hip-Hop"],
+      "desc": "Rapper bringing raw energy and lyrical intensity to the stage.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -1383,10 +1389,10 @@
     },
     {
       "id": 67,
-      "artist": "Remy van Kesteren",
-      "genre": ["Classical"],
-      "desc": "Pioneering harpist & composer.",
-      "day": "Saturday",
+      "artist": "Upchuck",
+      "genre": ["Punk"],
+      "desc": "High-octane punk outfit with confrontational riffs and stage presence.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -1404,10 +1410,10 @@
     },
     {
       "id": 68,
-      "artist": "Rocket",
-      "genre": ["Alternative Rock"],
-      "desc": "Hook-heavy alternative rock.",
-      "day": "Saturday",
+      "artist": "Sex Week",
+      "genre": ["Punk"],
+      "desc": "Raucous punk band delivering sharp-edged, breathless musical bursts.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -1425,10 +1431,10 @@
     },
     {
       "id": 69,
-      "artist": "Snapped Ankles",
-      "genre": ["Kraut Rock"],
-      "desc": "Shrubby kraut rock shamans.",
-      "day": "Friday",
+      "artist": "Greg Mendez",
+      "genre": ["Singer-Songwriter"],
+      "desc": "Folk-influenced lyrical singer with earnest and heartfelt delivery.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -1446,10 +1452,10 @@
     },
     {
       "id": 70,
-      "artist": "Soulwax",
-      "genre": ["Electro-Rock"],
-      "desc": "Constantly reinventing electro-rock masterminds.",
-      "day": "Saturday",
+      "artist": "Jasmine.4.t",
+      "genre": ["R&B"],
+      "desc": "Rising vocalist blending soulful stylings with introspective songwriting.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -1467,10 +1473,10 @@
     },
     {
       "id": 71,
-      "artist": "SPELLLING",
-      "genre": ["Pop"],
-      "desc": "Retrofuturist pop incantations.",
-      "day": "Saturday",
+      "artist": "Rocket",
+      "genre": ["Garage Rock"],
+      "desc": "Energetic rock trio channeling raw garage vibes and hooks.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -1488,10 +1494,10 @@
     },
     {
       "id": 72,
-      "artist": "The Streets",
-      "genre": ["Rap"],
-      "desc": "UK wordsmith & producer jaywalking the everyday.",
-      "day": "Saturday",
+      "artist": "Horse Jumper of Love",
+      "genre": ["Slowcore"],
+      "desc": "Massachusetts trio known for atmospheric, emotionally resonant slow rock.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -1509,10 +1515,10 @@
     },
     {
       "id": 73,
-      "artist": "The Vices",
-      "genre": ["Garage Pop"],
-      "desc": "Magnetic garage pop sensation.",
-      "day": "Friday",
+      "artist": "Allegra Krieger",
+      "genre": ["Indie Rock"],
+      "desc": "Singer-songwriter crafting emotive guitar-driven indie narratives.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -1530,10 +1536,10 @@
     },
     {
       "id": 74,
-      "artist": "They Are Gutting A Body Of Water",
-      "genre": ["Shoegaze"],
-      "desc": "Metamorphic shoegaze curiosity.",
-      "day": "Saturday",
+      "artist": "Melin Melyn",
+      "genre": ["Alternative"],
+      "desc": "Experimental band blending bold sounds with Welsh-language lyrics.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -1551,10 +1557,10 @@
     },
     {
       "id": 75,
-      "artist": "Ugly",
-      "genre": ["Art Punk"],
-      "desc": "Genre-shattering art punk anomaly.",
-      "day": "Saturday",
+      "artist": "Heartworms",
+      "genre": ["Indie Rock"],
+      "desc": "Upbeat indie act delivering jangly guitars and melodic hooks.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -1572,10 +1578,10 @@
     },
     {
       "id": 76,
-      "artist": "YĪN YĪN",
-      "genre": ["Funk"],
-      "desc": "Renegades of Intercontinental Funk.",
-      "day": "Saturday",
+      "artist": "Folk Bitch Trio",
+      "genre": ["Folk"],
+      "desc": "Three women exploring folk traditions with vocal harmonies and charm.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
@@ -1593,10 +1599,1397 @@
     },
     {
       "id": 77,
-      "artist": "Youth Lagoon",
+      "artist": "Bridget Hayden and the Apparitions",
+      "genre": ["Indie Folk"],
+      "desc": "Intimate folk ensemble led by Bridget’s evocative songwriting.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "artist": "Oisin Leech",
       "genre": ["Indie Pop"],
-      "desc": "Dreamy, introspective indie pop.",
-      "day": "Saturday",
+      "desc": "Melodic pop-rocker with catchy tunes and thoughtful lyrics.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "artist": "Delivery",
+      "genre": ["Post-Punk"],
+      "desc": "Angular post-punk band delivering punchy riffs and tight arrangements.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "artist": "Cloth",
+      "genre": ["Indie Rock"],
+      "desc": "UK band fusing artful melodies with textured guitar layers.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "artist": "Robin Kester",
+      "genre": ["Chamber Pop"],
+      "desc": "Dutch singer-songwriter blending chamber pop, electronic and psychedelic elements in evocative, atmospheric songs.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "artist": "Hannah Frances",
+      "genre": ["Avant-Folk"],
+      "desc": "Vermont-based classically-trained singer-songwriter creating cathartic, nature-infused avant-folk compositions.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "artist": "Lucy Gooch",
+      "genre": ["Folk"],
+      "desc": "Brighton-based songwriter delivering intimate folk with expressive vocals.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "artist": "Georgia Ruth Williams",
+      "genre": ["Folk"],
+      "desc": "Welsh harpist and singer combining traditional folk with poetic songwriting.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "artist": "Pys Melyn",
+      "genre": ["Folk"],
+      "desc": "Welsh-language folk project exploring personal and cultural themes through song.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "artist": "Nancy Williams",
+      "genre": ["Indie Folk"],
+      "desc": "Singer-songwriter crafting melodic folk-tinged indie pop.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "artist": "Midding",
+      "genre": ["Indie Rock"],
+      "desc": "UK-based indie band with upbeat melodies and driving guitar rhythms.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "artist": "Peiriant",
+      "genre": ["Folk"],
+      "desc": "Welsh folk ensemble blending traditional instrumentation with modern arrangements.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "artist": "Boss Morris",
+      "genre": ["Indie Pop"],
+      "desc": "Underground pop act delivering catchy hooks and quirky lyrics.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "artist": "Icemorph",
+      "genre": ["Psychedelic"],
+      "desc": "Experimental psychedelic artist known for surreal soundscapes.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "artist": "Deptford Northern Soul Club",
+      "genre": ["Northern Soul"],
+      "desc": "DJs celebrating upbeat soul classics from the Northern Soul movement.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "artist": "PVA DJs",
+      "genre": ["Electronic"],
+      "desc": "DJ collective bringing energetic electronic and dance sets.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "artist": "Tom Sharkett DJ",
+      "genre": ["Electronic"],
+      "desc": "DJ known for eclectic electronic and club-centric selections.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "artist": "Aili",
+      "genre": ["Singer-Songwriter"],
+      "desc": "Introspective vocalist with acoustic-driven songwriting.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "artist": "Baggy Mondays",
+      "genre": ["Indie Rock"],
+      "desc": "Rock band channeling classic indie vibes with modern flair.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "artist": "Don Leisure",
+      "genre": ["Psychedelic Soul"],
+      "desc": "Vex'd member blending deep bass with soulful, psychedelic grooves.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "artist": "Dutty Disco",
+      "genre": ["Disco"],
+      "desc": "Party DJs spinning disco-era classics and upbeat grooves.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "artist": "Indie Amnesty",
+      "genre": ["Indie Rock"],
+      "desc": "DIY rock outfit delivering melodic indie punk bursts.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "artist": "The Social",
+      "genre": ["Rock"],
+      "desc": "Full band delivering tight rock and indie rhythms.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "artist": "Ros Atkins Rave Machine",
+      "genre": ["Electronic"],
+      "desc": "Mobile rave event mixing electronic beats in live outdoor settings.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "artist": "Mark William Lewis",
+      "genre": ["Indie Rock"],
+      "desc": "London-based singer-songwriter blending ambient, slowcore and poetic indie rock; his self-titled debut arrives Sept 12 via A24 Music.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "artist": "Daisy Rickman",
+      "genre": ["Singer-Songwriter"],
+      "desc": "Brighton artist known for jangling guitar pop with thoughtful lyricism.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "artist": "YHWH Nailgun",
+      "genre": ["Experimental"],
+      "desc": "Underground act exploring abstract, noise-driven sonic textures.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "artist": "DJ Paulette",
+      "genre": ["House"],
+      "desc": "Veteran UK DJ known for uplifting house sets across international clubs.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "artist": "Allegra Krieger",
+      "genre": ["Indie Rock"],
+      "desc": "Singer-songwriter crafting emotive guitar-driven indie narratives.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "artist": "Boss Morris",
+      "genre": ["Indie Pop"],
+      "desc": "Underground pop act delivering catchy hooks and quirky lyrics.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "artist": "Pem",
+      "genre": ["Indie Folk"],
+      "desc": "Introspective songwriter with acoustic folk sensibility.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "artist": "Truthpaste",
+      "genre": ["Alternative"],
+      "desc": "Experimental alternative group blurring boundaries with creative sound design.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "artist": "Westside Cowboy",
+      "genre": ["Rock"],
+      "desc": "Rock band channeling classic riffs and stage energy.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "artist": "Don Leisure",
+      "genre": ["Psychedelic Soul"],
+      "desc": "Vex’d member blending deep bass with soulful, psychedelic grooves.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "artist": "Westside Cowboy",
+      "genre": ["Rock"],
+      "desc": "Rock band channeling classic riffs and stage energy.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "artist": "Dutty Disco",
+      "genre": ["Disco"],
+      "desc": "Party DJs spinning disco-era classics and upbeat grooves.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "artist": "Upchuck",
+      "genre": ["Punk"],
+      "desc": "High-octane punk outfit with confrontational riffs and stage presence.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "artist": "Sex Week",
+      "genre": ["Punk"],
+      "desc": "Raucous punk band delivering sharp-edged, breathless musical bursts.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "artist": "DJ Paulette",
+      "genre": ["House"],
+      "desc": "Veteran UK DJ known for uplifting house sets across international clubs.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "artist": "DJ Paulette",
+      "genre": ["House"],
+      "desc": "Veteran UK DJ known for uplifting house sets across international clubs.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "artist": "High Contrast",
+      "genre": ["Drum & Bass"],
+      "desc": "Welsh DJ celebrated for melodic D&B and soulful remixes.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "artist": "English Teacher",
+      "genre": ["Indie Rock"],
+      "desc": "Rising UK band blending poetic lyrics with angular guitar work.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "artist": "CMAT",
+      "genre": ["Pop"],
+      "desc": "Irish pop star known for sharp lyrics and theatrical flair.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "artist": "Wunderhorse",
+      "genre": ["Alternative Rock"],
+      "desc": "British rock band led by Jacob Slater, mixing introspection with grungy guitars.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "artist": "An Dannsa Dub",
+      "genre": ["Dub", "Folk"],
+      "desc": "Scottish collective merging Celtic melodies with dub basslines.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "artist": "Gecko",
+      "genre": ["Spoken Word", "Folk"],
+      "desc": "Playful storyteller and lyricist fusing spoken word with acoustic pop.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "artist": "Urban Folk Quartet",
+      "genre": ["Folk"],
+      "desc": "International quartet blending global folk traditions with contemporary energy.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "artist": "Zawose Queens",
+      "genre": ["World Music"],
+      "desc": "Tanzanian family duo carrying on the musical legacy of Dr. Hukwe Zawose.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "artist": "Conn3ct ft Aziza Jaye, Amy True, M Dly",
+      "genre": ["Hip Hop", "Soul"],
+      "desc": "Collaborative performance uniting UK voices in hip hop, soul, and spoken word.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "artist": "The Wran",
+      "genre": ["Folk"],
+      "desc": "Modern folk act weaving myth and storytelling into acoustic soundscapes.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "artist": "Simaly Sound",
+      "genre": ["Reggae"],
+      "desc": "Roots reggae band delivering laid-back grooves and positive messages.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "artist": "True Strays",
+      "genre": ["Blues Rock"],
+      "desc": "Bristol-based trio mixing Americana, roots, and gritty blues rock.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "artist": "The Gulls",
+      "genre": ["Folk Rock"],
+      "desc": "Nomadic folk-rockers known for guerrilla-style live shows.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "artist": "Stevie Toddler",
+      "genre": ["Indie Pop"],
+      "desc": "Bristol-based vocalist fusing silky vocals with leftfield indie pop.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "artist": "Will Rendle",
+      "genre": ["Folk Pop"],
+      "desc": "Singer-songwriter crafting bright, upbeat tunes with personal storytelling.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "artist": "DJ Hiphoppapotamus",
+      "genre": ["Funk", "Hip Hop"],
+      "desc": "Funk-fueled DJ mixing hip-hop, world music and bass-driven beats.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "artist": "Good Habits",
+      "genre": ["Folk"],
+      "desc": "Alt-folk duo blending cello and vocals into heartfelt songwriting.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "artist": "Mr Fitz",
+      "genre": ["Funk", "Disco"],
+      "desc": "Feel-good DJ spinning funk, disco, and party anthems.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "artist": "Jessie Reid",
+      "genre": ["Acoustic"],
+      "desc": "Shropshire-based singer-songwriter crafting warm, fingerpicked acoustic songs.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "artist": "Rona Mac",
+      "genre": ["Folk"],
+      "desc": "Queer Welsh artist delivering introspective, lo-fi folk-pop.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "artist": "Hibiscus",
+      "genre": ["Neo-Soul"],
+      "desc": "Smooth vocals and jazzy beats define this neo-soul up-and-comer.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "artist": "Si Chai",
+      "genre": ["World Fusion"],
+      "desc": "Eclectic act blending global music traditions with electronic textures.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "artist": "Potter",
+      "genre": ["Indie Rock"],
+      "desc": "Alt-rock newcomer delivering nostalgic, dreamy guitar pop.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "artist": "Seamas Carey",
+      "genre": ["Experimental", "Comedy"],
+      "desc": "Cornish artist known for musical theatre, satire, and wild crowd participation.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+
+    {
+      "id": 141,
+      "artist": "Bloco B",
+      "genre": ["Samba", "World Music"],
+      "desc": "Vibrant UK samba band delivering infectious rhythms and carnival spirit.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "artist": "Taff Rapids",
+      "genre": ["Folk Rock"],
+      "desc": "Welsh folk rockers known for their dynamic and heartfelt live shows.",
+      "day": "",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "artist": "Gringo Ska",
+      "genre": ["Ska", "Punk"],
+      "desc": "Energetic ska-punk band combining brass-driven grooves with punk attitude.",
+      "day": "",
       "ratings": [
         {
           "name": "jonas",
