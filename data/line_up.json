@@ -1,0 +1,1616 @@
+{
+  "lineup": [
+    {
+      "id": 1,
+      "artist": "Amadou & Mariam",
+      "genre": ["World Music"],
+      "desc": "Mali’s most famous musical duo.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "artist": "Amenra",
+      "genre": ["Post-metal"],
+      "desc": "Holistic heavy metal with high intensity.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "artist": "Barry Can't Swim",
+      "genre": ["Electronic"],
+      "desc": "Warm, jazzy house with a unique charm.",
+      "day": "Friday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "artist": "Big Special",
+      "genre": ["Post-industrial"],
+      "desc": "Fiery post-industrial music that invites dancing.",
+      "day": "Sunday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "artist": "Blanco White",
+      "genre": ["Latin-folk"],
+      "desc": "Soothing yet urgent Latin-folk sounds.",
+      "day": "Sunday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "artist": "Brass Rave Unit",
+      "genre": ["Rave"],
+      "desc": "Brass-fueled rave trio.",
+      "day": "Sunday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "artist": "Brihang",
+      "genre": ["Hip-hop"],
+      "desc": "Charismatic rapper with a laid-back flow.",
+      "day": "Friday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "artist": "Caribou",
+      "genre": ["Indietronica"],
+      "desc": "Vibrant indietronica with a full band setup.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "artist": "Cassandra Jenkins",
+      "genre": ["Folk"],
+      "desc": "Free-flowing and easygoing folk meditations.",
+      "day": "Friday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "artist": "Deftones",
+      "genre": ["Alternative Metal"],
+      "desc": "Masters of heavy, melodic bliss.",
+      "day": "Sunday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "artist": "Divorce",
+      "genre": ["Alternative Rock"],
+      "desc": "Charming and twangy alternative rock.",
+      "day": "Friday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "artist": "Djo",
+      "genre": ["Synthpop"],
+      "desc": "Fresh synthpop soundscapes.",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "artist": "Droom Dit",
+      "genre": ["Alternative Pop"],
+      "desc": "Passionate Dutch-language alternative pop.",
+      "day": "Friday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "artist": "Dummy",
+      "genre": ["Psych Rock"],
+      "desc": "Colorful psychedelic rock wonders.",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "artist": "Eefje de Visser",
+      "genre": ["Pop"],
+      "desc": "Enchanting and visionary pop music.",
+      "day": "Friday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "artist": "Elephant",
+      "genre": ["Alternative Pop"],
+      "desc": "Sun-drenched alt-pop gems.",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "artist": "Fcukers",
+      "genre": ["House"],
+      "desc": "Gritty house anthems that break all the rules.",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "artist": "Gouge Away",
+      "genre": ["Post-hardcore", "Shoegaze"],
+      "desc": "Fierce blend of post-hardcore and shoegaze.",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "artist": "jasmine.4.t",
+      "genre": ["Indie Rock"],
+      "desc": "Expressive, raw indie rock.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "artist": "Kabeaushé",
+      "genre": ["Pop"],
+      "desc": "Eccentric pop projectiles.",
+      "day": "Friday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "artist": "Khana Bierbood",
+      "genre": ["Thai Funk"],
+      "desc": "Thai funk with a modern twist.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "artist": "King Hannah",
+      "genre": ["Art Rock"],
+      "desc": "Hypnotic art rock with a twist.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "artist": "Kin'Gongolo Kiniata",
+      "genre": ["Electronic"],
+      "desc": "Scrap-metal sonic odyssey from Congo.",
+      "day": "Friday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "artist": "Kneecap",
+      "genre": ["Hip-hop"],
+      "desc": "Outspoken Irish rap rebels.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "artist": "Lander & Adriaan",
+      "genre": ["Electronic"],
+      "desc": "Infectious, jazzy electronic jams.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "artist": "L'Impératrice",
+      "genre": ["French Pop"],
+      "desc": "French pop with a retro-futuristic touch.",
+      "day": "Friday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "artist": "Magdalena Bay",
+      "genre": ["Pop"],
+      "desc": "Warped pop transmissions from the Phantom Zone.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "artist": "Michael Kiwanuka",
+      "genre": ["Soul"],
+      "desc": "Dynamic soul artist blending grit and grace.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "artist": "Nia Archives",
+      "genre": ["Breakbeat"],
+      "desc": "Influential breakbeat innovator.",
+      "day": "Friday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "artist": "Nilüfer Yanya",
+      "genre": ["Alternative Pop"],
+      "desc": "Impressionistic alt-pop heroine.",
+      "day": "Friday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "artist": "Paceshifters",
+      "genre": ["Rock"],
+      "desc": "Melodic and inventive rock powerhouse.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "artist": "Personal Trainer",
+      "genre": ["Indie Rock"],
+      "desc": "Adventurous indie rock crusaders.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "artist": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
+      "genre": ["Heavy Metal"],
+      "desc": "Wild heavy metal innovators.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "artist": "Sailor Honeymoon",
+      "genre": ["Punk"],
+      "desc": "Catchy Korean punk band.",
+      "day": "Friday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "artist": "Seun Kuti & Egypt 80",
+      "genre": ["Afrobeat"],
+      "desc": "Legendary Afrobeat uplifting the soul.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "artist": "Split System",
+      "genre": ["Punk"],
+      "desc": "Furious, energetic Australian punk.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "artist": "The Backseat Lovers",
+      "genre": ["Indie Rock"],
+      "desc": "Indie rock that’s both raw and glamorous.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "artist": "The Dare",
+      "genre": ["Electroclash"],
+      "desc": "Lustrous electroclash revivalist.",
+      "day": "Friday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "artist": "The Pill",
+      "genre": ["Garage Punk"],
+      "desc": "Rowdy garage punk jokers.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "artist": "The Thing",
+      "genre": ["Psych Garage"],
+      "desc": "Gritty psychedelic garage jams.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "artist": "This Is Lorelei",
+      "genre": ["Indie Rock"],
+      "desc": "Witty, genre-blending bummer anthems.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "artist": "TV On The Radio",
+      "genre": ["Art Rock"],
+      "desc": "Influential art rock legends.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "artist": "TVOD",
+      "genre": ["Punk"],
+      "desc": "Defiant, fiery punk newcomers.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "artist": "Waxahatchee",
+      "genre": ["Alt-Country", "Americana"],
+      "desc": "Timeless, heartfelt alt-country and Americana.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "artist": "Wilco",
+      "genre": ["Alt-Country"],
+      "desc": "Ever-evolving alt-country giants.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "artist": "Wine Lips",
+      "genre": ["Garage Punk"],
+      "desc": "Ultra-catchy, wild garage punk.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "artist": "WITCH",
+      "genre": ["Zamrock"],
+      "desc": "Fuzzy, electrifying Zamrock.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "artist": "Antal",
+      "genre": ["Electronic"],
+      "desc": "Rush Hour founder and club connoisseur.",
+      "day": "Friday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "artist": "Baby Berserk",
+      "genre": ["Punk"],
+      "desc": "Feral & fashionable wave punk.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "artist": "Christian Lee Hutson",
+      "genre": ["Folk"],
+      "desc": "The next great American folk storyteller.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "artist": "Cliffords",
+      "genre": ["Indie Pop"],
+      "desc": "Poetic & poignant indie pop anthems.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "artist": "Daniela Pes",
+      "genre": ["Pop"],
+      "desc": "Visionary, genre-fluid pop.",
+      "day": "Friday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "artist": "Danilo Plessow (MCDE)",
+      "genre": ["House"],
+      "desc": "Daring deep house reformer.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "artist": "Daufødt",
+      "genre": ["Noise"],
+      "desc": "New Noise from Norway.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "artist": "Frost Children",
+      "genre": ["Hyperpop"],
+      "desc": "Genre-clashing hyperpop sensation.",
+      "day": "Friday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "artist": "Glass Beams",
+      "genre": ["Jam"],
+      "desc": "Transcendental jams beyond time & space.",
+      "day": "Friday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "artist": "Horsegirl",
+      "genre": ["Indie Rock"],
+      "desc": "Frisky indie rock torchbearers.",
+      "day": "Friday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "artist": "Iris Jean",
+      "genre": ["Pop"],
+      "desc": "Ethereal & multi-layered pop sensation.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "artist": "Jacob Alon",
+      "genre": ["Folk"],
+      "desc": "Gorgeous & urgent modern folk.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "artist": "Kae Tempest",
+      "genre": ["Rap"],
+      "desc": "Acclaimed UK rapper, poet & storyteller.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "artist": "L.A. Sagne",
+      "genre": ["Punk"],
+      "desc": "Noisy punk rock interlopers.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "artist": "Lael Neale",
+      "genre": ["Indie Pop"],
+      "desc": "Hypnotic indie pop minimalist.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "artist": "Long Fling",
+      "genre": ["Pop"],
+      "desc": "Charming shoestring pop.",
+      "day": "Friday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "artist": "Lucy Dacus",
+      "genre": ["Indie Rock"],
+      "desc": "Warm, heartfelt indie rock anthems.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "artist": "Maria Iskariot",
+      "genre": ["Punk"],
+      "desc": "Energetic punk mavericks from the Burning Fik stable.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "artist": "Merce Lemon",
+      "genre": ["Alt Folk"],
+      "desc": "Alt folk tinged with sad and silly.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "artist": "Remy van Kesteren",
+      "genre": ["Classical"],
+      "desc": "Pioneering harpist & composer.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "artist": "Rocket",
+      "genre": ["Alternative Rock"],
+      "desc": "Hook-heavy alternative rock.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "artist": "Snapped Ankles",
+      "genre": ["Kraut Rock"],
+      "desc": "Shrubby kraut rock shamans.",
+      "day": "Friday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "artist": "Soulwax",
+      "genre": ["Electro-Rock"],
+      "desc": "Constantly reinventing electro-rock masterminds.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "artist": "SPELLLING",
+      "genre": ["Pop"],
+      "desc": "Retrofuturist pop incantations.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "artist": "The Streets",
+      "genre": ["Rap"],
+      "desc": "UK wordsmith & producer jaywalking the everyday.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "artist": "The Vices",
+      "genre": ["Garage Pop"],
+      "desc": "Magnetic garage pop sensation.",
+      "day": "Friday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "artist": "They Are Gutting A Body Of Water",
+      "genre": ["Shoegaze"],
+      "desc": "Metamorphic shoegaze curiosity.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "artist": "Ugly",
+      "genre": ["Art Punk"],
+      "desc": "Genre-shattering art punk anomaly.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "artist": "YĪN YĪN",
+      "genre": ["Funk"],
+      "desc": "Renegades of Intercontinental Funk.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "artist": "Youth Lagoon",
+      "genre": ["Indie Pop"],
+      "desc": "Dreamy, introspective indie pop.",
+      "day": "Saturday",
+      "ratings": [
+        {
+          "name": "jonas",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        },
+        {
+          "name": "nora",
+          "like": null,
+          "rowdy": null,
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}
